@@ -1,8 +1,8 @@
 
-# lab11web
+# lab12web
 
 
-Praktikum 11: PHP Framework (Codeigniter)
+Praktikum 12: PHP Framework (Codeigniter)
 
 Buatlah folder baru dengan nama “lab11_php_ci”
 
